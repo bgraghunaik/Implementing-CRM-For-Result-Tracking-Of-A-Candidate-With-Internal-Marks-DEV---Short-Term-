@@ -23,5 +23,5 @@ Name - SHAIK MOHAMMAD HUSSAIN BASHA
 LEARNING TRACK - DEVELOPER
 Email - shaikhussain3355@gmail.com
 Trailhead Profile - https://www.salesforce.com/trailblazer/hussi5
-Usename (Developer Org) - hssain@gdcproject.com
+Usename (Developer Org) - hussain@gdcproject.com
 Contact - 6302994402
